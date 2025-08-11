@@ -7,8 +7,23 @@
         <mxCell id="3fx8E2GCxHxEPwRAGXpx-1" value="现状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="38" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3fx8E2GCxHxEPwRAGXpx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3fx8E2GCxHxEPwRAGXpx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3fx8E2GCxHxEPwRAGXpx-3" target="3fx8E2GCxHxEPwRAGXpx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fx8E2GCxHxEPwRAGXpx-3" value="商城APP微信支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3fx8E2GCxHxEPwRAGXpx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3fx8E2GCxHxEPwRAGXpx-4" target="3fx8E2GCxHxEPwRAGXpx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fx8E2GCxHxEPwRAGXpx-4" value="网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3fx8E2GCxHxEPwRAGXpx-5" value="微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3fx8E2GCxHxEPwRAGXpx-8" value="商城APP微信支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
